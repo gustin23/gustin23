@@ -23,6 +23,4 @@ Int main(){
 
 ## Contacto:
 
-<a href="https://youtu.be/zFbTXe1yFGA">
-<img src="https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agust%C3%ADn-maseda-475a9525a/)

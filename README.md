@@ -24,3 +24,5 @@ Int main(){
 ## Contacto:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustín%20Maseda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agust%C3%ADn-maseda-475a9525a/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:agusmaseda05@gmail.com)

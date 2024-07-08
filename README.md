@@ -23,4 +23,4 @@ Int main(){
 
 ## Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agust%C3%ADn-maseda-475a9525a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin Maseda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agust%C3%ADn-maseda-475a9525a/)

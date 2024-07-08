@@ -23,6 +23,6 @@ Int main(){
 
 ## Contacto:
 
-[![Linkdein](https://www.linkedin.com/in/agust%C3%ADn-maseda-475a9525a/)
-</br>
-[![Email](mailto:agusmaseda05@gmail.com)
+<a href="https://youtu.be/zFbTXe1yFGA">
+<img src="https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg">
+</a>

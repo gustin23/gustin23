@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**gustin23/gustin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Int main(){
+  string MyName = "Agustín Maseda";
+  string lenguages[] = {"C++", "PHP", "C#", "SQL", "CSS", "JS", "HTML", "Arduino"};
+  int age = 18;
+  bool working = true;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  cout<<"Do you want a programmer? Yes/No";
+  string answer;
+  cin>> answer;
+  If (Answer == "yes"){
+   cout<<"Text me by email or Linkedin!!";
+  } else{
+   cout<<"See you later ;C";
+  }
+}

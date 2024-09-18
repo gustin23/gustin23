@@ -20,7 +20,7 @@ Int main(){
 
 ```
 
-![Demo de mi proyecto](https://media.giphy.com/media/3o7TKFVWc22mHo5t0A/giphy.gif)
+![pinguino programod](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWN5ZWxwdmlmM3luc2Jsam0wdmVham1idWpucnRlbWhzZjJrejMxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp)
 
 ## Contacto:
 
